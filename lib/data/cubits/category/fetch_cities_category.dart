@@ -2,7 +2,7 @@ import 'dart:developer';
 
 import 'package:ebroker/data/model/city_model.dart';
 import 'package:ebroker/data/repositories/cities_repository.dart';
-import 'package:ebroker/utils/Extensions/lib/list.dart';
+import 'package:ebroker/utils/extensions/lib/list.dart';
 import 'package:ebroker/utils/api.dart';
 import 'package:ebroker/utils/network/network_availability.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';

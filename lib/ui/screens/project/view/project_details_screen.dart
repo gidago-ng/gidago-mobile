@@ -17,7 +17,7 @@ import 'package:ebroker/ui/screens/proprties/widgets/property_gallery.dart';
 import 'package:ebroker/ui/screens/widgets/blurred_dialoge_box.dart';
 import 'package:ebroker/ui/screens/widgets/promoted_widget.dart';
 import 'package:ebroker/ui/screens/widgets/read_more_text.dart';
-import 'package:ebroker/utils/Extensions/extensions.dart';
+import 'package:ebroker/utils/extensions/extensions.dart';
 import 'package:ebroker/utils/app_icons.dart';
 import 'package:ebroker/utils/cloud_state/cloud_state.dart';
 import 'package:ebroker/utils/constant.dart';

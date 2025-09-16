@@ -1,7 +1,7 @@
 import 'dart:developer';
 
 import 'package:ebroker/app/routes.dart';
-import 'package:ebroker/utils/Extensions/extensions.dart';
+import 'package:ebroker/utils/extensions/extensions.dart';
 import 'package:ebroker/utils/extensions/lib/custom_text.dart';
 import 'package:ebroker/utils/hive_utils.dart';
 import 'package:flutter/material.dart';

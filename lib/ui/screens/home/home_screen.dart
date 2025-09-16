@@ -15,7 +15,7 @@ import 'package:ebroker/data/model/project_model.dart';
 import 'package:ebroker/data/model/system_settings_model.dart';
 import 'package:ebroker/exports/main_export.dart';
 import 'package:ebroker/ui/screens/agents/cards/agent_card.dart';
-import 'package:ebroker/ui/screens/home/Widgets/property_card_big.dart';
+import 'package:ebroker/ui/screens/home/widgets/property_card_big.dart';
 import 'package:ebroker/ui/screens/home/city_properties_screen.dart';
 import 'package:ebroker/ui/screens/home/widgets/category_card.dart';
 import 'package:ebroker/ui/screens/home/widgets/custom_grid.dart';

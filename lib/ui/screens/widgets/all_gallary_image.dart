@@ -1,5 +1,5 @@
 import 'package:ebroker/ui/screens/widgets/video_view_screen.dart';
-import 'package:ebroker/utils/Extensions/extensions.dart';
+import 'package:ebroker/utils/extensions/extensions.dart';
 import 'package:ebroker/utils/custom_appbar.dart';
 import 'package:ebroker/utils/custom_image.dart';
 import 'package:ebroker/utils/responsive_size.dart';

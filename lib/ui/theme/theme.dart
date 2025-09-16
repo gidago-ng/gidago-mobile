@@ -1,5 +1,5 @@
 import 'package:ebroker/app/app.dart';
-import 'package:ebroker/utils/Extensions/extensions.dart';
+import 'package:ebroker/utils/extensions/extensions.dart';
 import 'package:flutter/material.dart';
 
 ///Light Theme Colors

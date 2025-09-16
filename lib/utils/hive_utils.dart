@@ -4,7 +4,7 @@ import 'package:ebroker/app/routes.dart';
 import 'package:ebroker/data/model/user_model.dart';
 import 'package:ebroker/data/repositories/auth_repository.dart';
 import 'package:ebroker/settings.dart';
-import 'package:ebroker/utils/Extensions/extensions.dart';
+import 'package:ebroker/utils/extensions/extensions.dart';
 import 'package:ebroker/utils/hive_keys.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';

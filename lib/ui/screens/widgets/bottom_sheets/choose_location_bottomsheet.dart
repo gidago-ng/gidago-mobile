@@ -2,7 +2,7 @@ import 'dart:async';
 
 import 'package:ebroker/data/cubits/utility/google_place_autocomplate_cubit.dart';
 import 'package:ebroker/data/repositories/location_repository.dart';
-import 'package:ebroker/utils/Extensions/extensions.dart';
+import 'package:ebroker/utils/extensions/extensions.dart';
 import 'package:ebroker/utils/extensions/lib/custom_text.dart';
 import 'package:ebroker/utils/ui_utils.dart';
 import 'package:flutter/material.dart';

@@ -11,7 +11,7 @@ extension MapExt on Map<dynamic, dynamic> {
   }
 }
 
-extension ListExt on List<Map<dynamic, dynamic>> {
+extension ListMapExt on List<Map<dynamic, dynamic>> {
   Map<dynamic, dynamic> findByKey(dynamic key, {dynamic equals}) {
     return where((element) {
       return element[key] == equals;

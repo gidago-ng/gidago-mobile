@@ -1,7 +1,7 @@
 import 'dart:developer';
 
 import 'package:dio/dio.dart';
-import 'package:ebroker/utils/Extensions/extensions.dart';
+import 'package:ebroker/utils/extensions/extensions.dart';
 
 class NetworkRequestInterseptor extends Interceptor {
   int totalAPICallTimes = 0;

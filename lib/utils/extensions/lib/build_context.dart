@@ -1,7 +1,7 @@
-import 'package:ebroker/ui/Theme/theme.dart';
+import 'package:ebroker/ui/theme/theme.dart';
 import 'package:flutter/material.dart';
 
-export '../../../ui/Theme/theme.dart';
+export '../../../ui/theme/theme.dart';
 
 extension CustomContext on BuildContext {
   double get screenWidth => MediaQuery.of(this).size.width;

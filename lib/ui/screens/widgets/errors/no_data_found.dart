@@ -1,4 +1,4 @@
-import 'package:ebroker/utils/Extensions/extensions.dart';
+import 'package:ebroker/utils/extensions/extensions.dart';
 import 'package:ebroker/utils/app_icons.dart';
 import 'package:ebroker/utils/custom_image.dart';
 import 'package:ebroker/utils/extensions/lib/custom_text.dart';

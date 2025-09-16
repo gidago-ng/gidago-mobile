@@ -1,7 +1,7 @@
 import 'package:ebroker/data/cubits/property/create_advertisement_cubit.dart';
 import 'package:ebroker/data/model/project_model.dart';
 import 'package:ebroker/exports/main_export.dart';
-import 'package:ebroker/ui/screens/home/Widgets/property_card_big.dart';
+import 'package:ebroker/ui/screens/home/widgets/property_card_big.dart';
 import 'package:ebroker/ui/screens/home/widgets/project_card_horizontal.dart';
 import 'package:ebroker/ui/screens/project/widgets/project_card_big.dart';
 import 'package:ebroker/utils/image_picker.dart';

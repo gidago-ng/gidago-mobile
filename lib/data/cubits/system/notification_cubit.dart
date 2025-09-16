@@ -2,7 +2,7 @@ import 'dart:convert';
 
 import 'package:ebroker/data/helper/custom_exception.dart';
 import 'package:ebroker/data/model/notification_data.dart';
-import 'package:ebroker/utils/Extensions/extensions.dart';
+import 'package:ebroker/utils/extensions/extensions.dart';
 import 'package:ebroker/utils/api.dart';
 import 'package:ebroker/utils/helper_utils.dart';
 import 'package:flutter/material.dart';

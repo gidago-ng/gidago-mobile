@@ -4,7 +4,7 @@ import 'package:ebroker/ui/screens/home/widgets/custom_refresh_indicator.dart';
 import 'package:ebroker/ui/screens/home/widgets/property_horizontal_card.dart';
 import 'package:ebroker/ui/screens/widgets/errors/no_data_found.dart';
 import 'package:ebroker/ui/screens/widgets/errors/something_went_wrong.dart';
-import 'package:ebroker/utils/Extensions/extensions.dart';
+import 'package:ebroker/utils/extensions/extensions.dart';
 import 'package:ebroker/utils/app_icons.dart';
 import 'package:ebroker/utils/constant.dart';
 import 'package:ebroker/utils/custom_appbar.dart';

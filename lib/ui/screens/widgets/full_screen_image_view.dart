@@ -3,7 +3,7 @@ import 'dart:io';
 
 import 'package:dio/dio.dart';
 import 'package:ebroker/app/app.dart';
-import 'package:ebroker/utils/Extensions/extensions.dart';
+import 'package:ebroker/utils/extensions/extensions.dart';
 import 'package:ebroker/utils/custom_appbar.dart';
 import 'package:ebroker/utils/custom_image.dart';
 import 'package:ebroker/utils/helper_utils.dart';

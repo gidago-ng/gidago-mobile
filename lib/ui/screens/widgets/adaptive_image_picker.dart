@@ -2,7 +2,7 @@ import 'dart:io';
 
 import 'package:dotted_border/dotted_border.dart';
 import 'package:ebroker/ui/screens/proprties/add_propery_screens/add_property_details.dart';
-import 'package:ebroker/utils/Extensions/extensions.dart';
+import 'package:ebroker/utils/extensions/extensions.dart';
 import 'package:ebroker/utils/custom_validator.dart';
 import 'package:ebroker/utils/extensions/lib/custom_text.dart';
 import 'package:ebroker/utils/responsive_size.dart';

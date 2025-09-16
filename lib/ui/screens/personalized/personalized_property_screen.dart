@@ -1,9 +1,9 @@
 import 'dart:developer';
 
-import 'package:ebroker/data/cubits/Personalized/add_update_personalized_interest.dart';
+import 'package:ebroker/data/cubits/personalized/add_update_personalized_interest.dart';
 import 'package:ebroker/data/model/system_settings_model.dart';
 import 'package:ebroker/exports/main_export.dart';
-import 'package:ebroker/utils/Extensions/lib/list.dart';
+import 'package:ebroker/utils/extensions/lib/list.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_typeahead/flutter_typeahead.dart';
 

@@ -5,7 +5,7 @@ import 'package:ebroker/data/cubits/property/fetch_my_properties_cubit.dart';
 import 'package:ebroker/data/helper/widgets.dart';
 import 'package:ebroker/data/model/property_model.dart';
 import 'package:ebroker/data/repositories/property_repository.dart';
-import 'package:ebroker/utils/Extensions/extensions.dart';
+import 'package:ebroker/utils/extensions/extensions.dart';
 import 'package:ebroker/utils/app_icons.dart';
 import 'package:ebroker/utils/custom_image.dart';
 import 'package:ebroker/utils/extensions/lib/custom_text.dart';

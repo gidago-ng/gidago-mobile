@@ -6,6 +6,7 @@ import 'package:ebroker/data/repositories/auth_repository.dart';
 import 'package:ebroker/data/repositories/system_repository.dart';
 import 'package:ebroker/exports/main_export.dart';
 import 'package:ebroker/ui/screens/home/widgets/custom_refresh_indicator.dart';
+import 'package:ebroker/ui/screens/personalized/personalized_property_screen.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:google_sign_in/google_sign_in.dart';

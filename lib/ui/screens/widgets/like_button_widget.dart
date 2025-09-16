@@ -1,7 +1,7 @@
 import 'package:ebroker/data/cubits/favorite/add_to_favorite_cubit.dart';
 import 'package:ebroker/data/cubits/favorite/fetch_favorites_cubit.dart';
 import 'package:ebroker/data/cubits/utility/like_properties.dart';
-import 'package:ebroker/utils/Extensions/extensions.dart';
+import 'package:ebroker/utils/extensions/extensions.dart';
 import 'package:ebroker/utils/app_icons.dart';
 import 'package:ebroker/utils/custom_image.dart';
 import 'package:ebroker/utils/guest_checker.dart';

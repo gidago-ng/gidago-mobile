@@ -4,7 +4,7 @@ import 'dart:io';
 import 'package:dio/dio.dart';
 import 'package:dotted_border/dotted_border.dart';
 import 'package:ebroker/ui/screens/proprties/add_propery_screens/custom_fields/custom_field.dart';
-import 'package:ebroker/utils/Extensions/extensions.dart';
+import 'package:ebroker/utils/extensions/extensions.dart';
 import 'package:ebroker/utils/custom_image.dart';
 import 'package:ebroker/utils/extensions/lib/custom_text.dart';
 import 'package:ebroker/utils/responsive_size.dart';

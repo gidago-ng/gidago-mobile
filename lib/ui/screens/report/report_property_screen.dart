@@ -1,7 +1,7 @@
 import 'package:ebroker/data/cubits/report/fetch_property_report_reason_list.dart';
 import 'package:ebroker/data/cubits/report/property_report_cubit.dart';
 import 'package:ebroker/data/model/report_property/reason_model.dart';
-import 'package:ebroker/utils/Extensions/extensions.dart';
+import 'package:ebroker/utils/extensions/extensions.dart';
 import 'package:ebroker/utils/extensions/lib/custom_text.dart';
 import 'package:ebroker/utils/helper_utils.dart';
 import 'package:ebroker/utils/ui_utils.dart';
